@@ -1,4 +1,0 @@
-(coq.extraction
- (prelude Extraction)
- (extracted_modules Foo Bar/Baz)
- (theories Lib))

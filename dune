@@ -1,0 +1,3 @@
+(coq.extraction
+ (prelude Extraction)
+ (extracted_modules Foo/Bar))
